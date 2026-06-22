@@ -6,6 +6,10 @@ Currently in-development. A lot will change.
 
 Source code will be released when I'm comfortable with it. For now, this repo only contains the installer image, optional rich presence binary, and documentation.
 
+## Requirements
+
+- VirtualBox 7
+
 Current features include
 
 - A bootloader
