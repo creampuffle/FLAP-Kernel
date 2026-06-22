@@ -1,0 +1,10 @@
+# Never add private source, local configuration, logs, or debug artifacts.
+*.ps1
+*.rs
+Cargo.toml
+Cargo.lock
+config.json
+*.log
+*.pdb
+target/
+src/

@@ -1,0 +1,19 @@
+FLAP PREVIEW BINARY LICENSE
+
+Copyright (c) 2026 Creampuffle. All rights reserved.
+
+Permission is granted to download and run the unmodified FLAP installer and
+installed binary for personal, educational, research, and non-commercial
+evaluation. You may make reasonable backup copies and publish screenshots,
+benchmarks, and descriptions of your own testing.
+
+You may not sell, sublicense, redistribute a modified binary, remove or obscure
+the FLAP, CARROT, Creampuffle, or copyright notices, misrepresent authorship,
+or use this preview to create or distribute a compatible CARROT implementation.
+No source-code license or patent license is granted. Redistribution of the
+unmodified installer must retain this license and all attribution.
+
+THE SOFTWARE IS EXPERIMENTAL AND IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+KIND. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER IS NOT
+LIABLE FOR ANY CLAIM, DAMAGES, DATA LOSS, OR OTHER LIABILITY ARISING FROM USE
+OF THE SOFTWARE OR INSTALLER.
